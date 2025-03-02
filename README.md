@@ -110,23 +110,3 @@ Kredisi
 
 Öğrenci ID (FK) → Öğrenciler Tablosu
 Ders ID (FK) → Dersler Tablosu
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Ara
-
-Akıl Yürüt
-
-ChatGPT hata yapabilir. Önemli bilgileri kontrol edin.
-?
